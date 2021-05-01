@@ -38,9 +38,9 @@ export default function Card(props) {
               <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Free Subdomain</li>
 <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Monthly Status Reports</li>*/}
             </ul>
-            <a href="#" class="btn btn-block btn-primary text-uppercase">
+            <button href="#" class="btn btn-block btn-primary text-uppercase">
               Button
-            </a>
+            </button>
           </div>
         </div>
       </div>
