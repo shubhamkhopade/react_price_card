@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react_price_card/static/css/main.301dea71.chunk.css",
+    "main.js": "/react_price_card/static/js/main.8c4ba25a.chunk.js",
+    "main.js.map": "/react_price_card/static/js/main.8c4ba25a.chunk.js.map",
+    "runtime-main.js": "/react_price_card/static/js/runtime-main.80baca3c.js",
+    "runtime-main.js.map": "/react_price_card/static/js/runtime-main.80baca3c.js.map",
+    "static/js/2.44388d66.chunk.js": "/react_price_card/static/js/2.44388d66.chunk.js",
+    "static/js/2.44388d66.chunk.js.map": "/react_price_card/static/js/2.44388d66.chunk.js.map",
+    "static/js/3.85c048a3.chunk.js": "/react_price_card/static/js/3.85c048a3.chunk.js",
+    "static/js/3.85c048a3.chunk.js.map": "/react_price_card/static/js/3.85c048a3.chunk.js.map",
+    "index.html": "/react_price_card/index.html",
+    "static/css/main.301dea71.chunk.css.map": "/react_price_card/static/css/main.301dea71.chunk.css.map",
+    "static/js/2.44388d66.chunk.js.LICENSE.txt": "/react_price_card/static/js/2.44388d66.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80baca3c.js",
+    "static/js/2.44388d66.chunk.js",
+    "static/css/main.301dea71.chunk.css",
+    "static/js/main.8c4ba25a.chunk.js"
+  ]
+}
